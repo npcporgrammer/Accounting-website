@@ -1,0 +1,8 @@
+# 测试产物
+_dev/out/
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
